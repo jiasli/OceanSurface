@@ -28,10 +28,10 @@ We made two videos for [a wavy surface](https://youtu.be/U2fkrXxvPRY) and [a cal
 
 Here are some screenshots.
 
-![](https://github.com/ZijinZheng/OceanSurface/raw/master/screenshots/screenshot1.jpg)
+![](/screenshots/screenshot1.jpg)
 
-![](https://github.com/ZijinZheng/OceanSurface/raw/master/screenshots/screenshot2.jpg)
+![](/screenshots/screenshot2.jpg)
 
-![](https://github.com/ZijinZheng/OceanSurface/raw/master/screenshots/screenshot3.jpg)
+![](/screenshots/screenshot3.jpg)
 
 
